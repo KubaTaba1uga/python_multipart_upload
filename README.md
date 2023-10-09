@@ -2,7 +2,6 @@
 
 Simple app processing multipart fields and files.
 Fields are saved to memory, Files are saved to TemporaryFiles.
-Solution is memory optimized.
 
 ## Getting Started
 
